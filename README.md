@@ -1,4 +1,4 @@
-# PwC-Switzerland-Power-BI
+# Accenture North America Data Analytics and Visualization
 
 Let's dive into the data
 7 data sets - each data set contains different columns and values
